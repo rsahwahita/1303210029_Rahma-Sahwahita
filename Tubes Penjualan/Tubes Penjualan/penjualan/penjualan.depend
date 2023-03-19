@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1672055263 source:f:\me\programming\c++\cblocks.matkul\jokian tubes std\tubes penjualan\penjualan\main.cpp
+	"penjualan.h"
+
+1672055263 f:\me\programming\c++\cblocks.matkul\jokian tubes std\tubes penjualan\penjualan\penjualan.h
+	<iostream>
+
+1672055282 source:f:\me\programming\c++\cblocks.matkul\jokian tubes std\tubes penjualan\penjualan\penjualan.cpp
+	"penjualan.h"
+
